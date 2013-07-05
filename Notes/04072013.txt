@@ -1,0 +1,17 @@
+UniFormal brainstorming meeting
+04/07/2013, Ulm
+People present: Alberto, José Nuno, Lambert, Pedro, Roland
+
+We brainstormed about what UniFormal should be, what it should not be, what its
+goals are, and how these can best be achieved. We agreed that the language
+should include basic features such as definitions and statements, and it should
+not enforce a particular typing disciple, or semantics, for example.
+
+We will proceed by defining a possible abstract syntax for UniFormal, together
+with some examples. This will be done independently by each member, and we will
+then compare the approaches and try to fuse them. We will also look at related
+systems already existing (such as OMDoc, MathML, OpenMath, etc.) and try to
+understand how UniFormal should differ from them.
+
+Each of us should have something to share with the rest by the end of this 
+month (July), or preferably even within two weeks.
