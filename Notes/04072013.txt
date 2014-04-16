@@ -1,6 +1,6 @@
 UniFormal brainstorming meeting
 04/07/2013, Ulm
-People present: Alberto, José Nuno, Lambert, Pedro, Roland
+People present: Alberto Pardo, Josï¿½ Nuno, Lambert, Pedro, Roland
 
 We brainstormed about what UniFormal should be, what it should not be, what its
 goals are, and how these can best be achieved. We agreed that the language
