@@ -1,0 +1,9 @@
+UniFormal meeting
+March 27, 2014, Zeegse
+People present: Cezar, Lambert, Richard, Roland
+
+Lambert suggested that a few motivating scenarios of use would be useful for garnering support to carry the effort forward. A software developer who is serious about carrying through proofs using mechanical prover support now has to transcribe by hand between different formal languages, which is both tedious and error prone.
+
+He next presented a first attempt at what UniFormal 0.0 might look like. [See UFdatadef0.pdf.] The formalism should be kept as lightweight as possible and be expanded by need, rather than throwing in everything that might ever be needed from the start. However, even so, this attempt has several redundancies, in which some things that can be expressed using a more advanced and general capability also can be said more simply using a restricted capability, thought to be make it easier to build bridges to many existing tools. Whether to keep UniFormal as minimalist as possible or to add such things to simplify life for developers is one of several aspects of the design-choice landscape,
+
+Cezar mentions that he knows someone who was developing a formalism with somewhat similar aims [viz. MMT; see https://svn.kwarc.info/repos/MMT/doc/html/index.html — LM]. He will inquire if the project is still active. Lambert thinks it may be best to try to join forces if the aims are compatible.
